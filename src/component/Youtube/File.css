@@ -1,0 +1,86 @@
+/* body {
+  background-color: red;
+}
+.ui {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+}
+.s-input {
+  background-color: black;
+  color: white;
+  height: 45px;
+  width: 300px;
+}
+.Videos-main {
+  border: 10px solid black;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 200px;
+  left: 18%;
+}
+
+.left-column {
+  width: 37%;
+  border: 5px solid black;
+  margin: 5px 5px;
+  float: left;
+  height: 97%;
+}
+.right-column {
+  border: 5px solid black;
+  width: 50%;
+  margin: 5px 5px;
+  float: right;
+  height: 97%;
+}
+.item-img {
+  width: 30%;
+  height: 64px;
+  margin: 10px 10px;
+}
+.item-title {
+  background-color: white;
+  margin: 5px 5px;
+  padding: 2px 3px;
+}
+.item-channelname {
+  background-color: green;
+}
+.main-focus {
+  position: absolute;
+  top: -20px;
+  left: 60%;
+} */
+
+s-input {
+    height: 45px;
+    width: 300px;
+    margin: 50px 50px;
+  }
+  .item-img {
+    width: 15%;
+    height: 64px;
+    margin: 10px 10px;
+    cursor: pointer;
+  }
+  .iframe {
+    width: 700px;
+    height: 430px;
+    margin: 20px -100px;
+  }
+  /* .right-column {
+    background-color: red;
+    width: 50%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 0px -80px;
+    height: 400px;
+  } */
+  .column {
+    /* width: 100%; */
+    display: center;
+  }
+  
